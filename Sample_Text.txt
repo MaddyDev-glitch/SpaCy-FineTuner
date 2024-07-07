@@ -1,0 +1,13 @@
+This Agreement ("Agreement") is made and entered into by and between Stark Industries ("Party A") and Hammer Industries ("Party B") effective as of the date of execution by both parties.
+
+    Payment Obligation: Party A shall be liable for a payment of two thousand dollars ($2000 USD), which must be remitted to Party B on or before the 12th of March, 2024.
+
+    Intellectual Property Rights: Party A hereby irrevocably transfers and assigns all rights, title, and interest in and to all intellectual property ("IP") to Party B. Party A shall have no license, right, or entitlement to use, exploit, or benefit from any IP transferred under this Agreement, effective from the date hereof.
+
+    Use and Exploitation of IP: Party B shall have the sole and exclusive rights to use, exploit, and benefit from the IP, including, but not limited to, the right to sublicense, modify, sell, or otherwise utilize the IP without any restriction or obligation to Party A. Effective from the 11th of February, 2024, Party A is prohibited from using, exploiting, or benefiting from any of the IP, whether directly or indirectly.
+
+    Governing Law: This Agreement shall be governed by and construed in accordance with the laws of the jurisdiction in which Party B is incorporated, without regard to its conflict of law principles.
+
+    Entire Agreement: This Agreement constitutes the entire understanding between the parties with respect to the subject matter hereof and supersedes all prior discussions, agreements, or understandings of any kind.
+
+IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the date first above written.
