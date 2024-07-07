@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Sample Screenshot
 
-![Sample Screenshot](Image.png)
+![Sample Screenshot](image.png)
 
 ---
