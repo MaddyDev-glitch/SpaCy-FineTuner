@@ -1,10 +1,10 @@
 # SpaCy NER Fine-tuning Tool
 
-This is a PyQt5 application for fine-tuning the Named Entity Recognition (NER) component of a SpaCy model. The tool allows users to manually tag entities in text and save the annotations in JSON format. It supports bulk tagging and includes features for undoing and redoing annotations.
+This is a PyQt5 application designed to provide a user-friendly interface for creating JSON files necessary for fine-tuning the Named Entity Recognition (NER) component of a SpaCy model. The tool allows users to manually tag entities in text and save the annotations in JSON format. It supports bulk tagging and includes features for undoing and redoing annotations.
 
 ## Features
 
-- **Load Text Files**: Open and display text files for annotation.
+- **Load Text Files**: Open and display text files for annotation. (only .txt is supported as of now)
 - **Manual Tagging**: Select text and tag it with a specified entity type.
 - **Bulk Tagging**: Automatically tag all occurrences of a specified text with a given entity type.
 - **Undo/Redo**: Undo and redo tagging actions.
@@ -84,6 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Sample Screenshot
 
-![Sample Screenshot](screenshot.png)
+![Sample Screenshot](Image.png)
 
 ---
